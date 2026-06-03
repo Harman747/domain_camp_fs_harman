@@ -1,3 +1,4 @@
+package EcoSmart_HUB;
 public class EcoSmart_HUB {
 
     public static void main(String[] args) {
